@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CReate new myrecipes app
 
-Things you may want to cover:
+Minitest
+Layout of the application
+rails generate integration_test pages
 
-* Ruby version
+Integration Testing - entire feature tests
 
-* System dependencies
+Model Tests - unit testing.... Small test..login etc...
 
-* Configuration
+TDD - Test driven development
+TDD - design the app functionality on a test first approach
+Write to the test for the functionality
+Build minimum code neccessary to make each test pass
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Re-factor the code - *code doesn't smell* - clean code, confidence
